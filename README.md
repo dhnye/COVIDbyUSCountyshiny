@@ -1,10 +1,14 @@
-# COVID by US County Shiny App
+# COVID Data by US County Shiny App
 
 COVID Data plots via Shiny by US County for last 30 Days
 
 
+
 Link: https://hullnye.shinyapps.io/covidshinyapp/
 
+
+
+Description:
 
 Four Plots: Cumulative Cases since beginning of Pandemic, Cumulative Deaths since beginning of Pandemic, New Daily Cases, New Daily Deaths
 
