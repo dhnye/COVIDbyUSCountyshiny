@@ -17,6 +17,8 @@ Data taken from: https://github.com/nytimes/covid-19-data
 
 Data reads for last 30 days automatically
 
+Most counties do not report on weekends so you will see "0"s there and any weekend cases added to Monday's counts.
+
 You can delete name in Drop down menu and start typing state/county that you want. 
 
 You can change time range for plots to any range in last 30 days.
